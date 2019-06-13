@@ -15,9 +15,15 @@ public class AppiumTest {
 		System.out.println("IOSApps");	
 	}
 	@Test
-	public void New1()
+	public void IOSApps1()
 	{
-		System.out.println("New1");	
+		System.out.println("IOSApps1");	
 	}
+	@Test
+	public void IOSApps2()
+	{
+		System.out.println("IOSApps2");	
+	}
+	
 	
 }
