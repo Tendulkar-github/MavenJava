@@ -19,9 +19,5 @@ public class AppiumTest {
 	{
 		System.out.println("New1");	
 	}
-	@Test
-	public void New2()
-	{
-		System.out.println("New2");	
-	}
+	
 }
